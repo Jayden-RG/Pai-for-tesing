@@ -124,5 +124,14 @@
     "controllerid1": "rbxassetid://13972237805",
     "side": 1,
     "sideid1": "rbxassetid://79298024971147"
+  },
+  {
+    "number": 14,
+    "route": "LEY",
+    "front": 1,
+    "frontid1": "rbxassetid://114159650648537",
+    "controllerid1": "rbxassetid://127311298891302",
+    "side": 1,
+    "sideid1": "rbxassetid://1141596506485377"
   }
 ]
